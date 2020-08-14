@@ -17,6 +17,7 @@ https://blog.csdn.net/LIYUO94/article/details/105187349
 https://www.jianshu.com/p/8078bf1711e7
 
 
+
 ### Efficient Estimation of Word Representations in Vector Space
 
 文章写作目的：试图从数以十亿计单词的巨大数据集学习高质量的单词向量
